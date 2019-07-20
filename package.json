@@ -1,0 +1,15 @@
+{
+  "name": "grab_all_apis",
+  "version": "1.0.0",
+  "description": "grab all the api's you can",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "kingdom"
+  ],
+  "author": "ydvsailendar",
+  "license": "ISC"
+}
